@@ -1,5 +1,5 @@
 # openhsi-capture-and-processing
-The jupyter notebooks used to capture, process, and classify data captured from an OpenHSI camera for my honours project at Flinders University.
+The jupyter notebooks used to capture, process, and classify data captured from an [OpenHSI](https://openhsi.github.io/) camera for my honours project at Flinders University.
 
 The code contained here is not managed or kept up to date, it is a snapshot of what I used to complete my honours project.
 
