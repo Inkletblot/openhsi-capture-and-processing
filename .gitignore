@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+assets/
+data/
+evaluations/
+julien/
+kilian/
+old-code/
+processed-data/
+gmlc-evaluation-experimentation.ipynb
+right-pipe-gt.jpg
+right-pipe-gt.pkl
+right-pipe-rgb.jpg
+sardi-rgb-comparison.jpg
